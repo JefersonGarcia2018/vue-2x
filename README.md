@@ -25,4 +25,3 @@ npm run serve
 ```
 ## Login
 Ao rodar o projeto, inicialmente, será apresentada a página de Login, então clique em Registar-se, preencha o formulário de cadastro, e após feito o cadastro, você será redirecionado para a página Home.
-```
