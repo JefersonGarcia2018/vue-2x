@@ -1,9 +1,9 @@
 <p align="center"><img src="https://br.vuejs.org/images/logo.svg" alt="Vue logo" width="72" height="72"></p>
 
 
-# Projeto Prático de Vue JS + VueRouter (rotas com autenticação) + Bootstrap
+# Projeto Prático de Vue.js + VueRouter (rotas com autenticação) + Bootstrap
 
-> Exemplo básico Vue JS com implementação de rotas com autenticação, com páginas/formulários de Login e Registro de usuários, e usando sessionStorage para armazenar os dados.
+> Projeto Prático de Vue.js com implementação de rotas com autenticação, com páginas/formulários de Login e Registro de usuários, e usando sessionStorage para armazenar os dados.
 
 ## Baixar o projeto
 Primeiro passo, clonar o projeto:
