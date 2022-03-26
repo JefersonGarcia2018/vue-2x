@@ -9,7 +9,7 @@
 Primeiro passo, clonar o projeto:
 ``` bash
 # Clonar
-git clone https://github.com/JefersonGarcia2018/vue-2x
+git clone https://github.com/JefersonGarcia2018/vue-2x.git
 
 # Acessar
 cd vue-2x
